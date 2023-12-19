@@ -25,4 +25,4 @@ FIRST Download
 
 Admin
 user: admin
-pass: admin
+password: admin
